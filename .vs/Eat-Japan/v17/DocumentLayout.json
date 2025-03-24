@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\repos\\Eat-Japan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{178E05B3-8F70-47CA-A31C-CA7A9CDB5067}|Eat-Japan\\Eat-Japan.csproj|g:\\repos\\eat-japan\\eat-japan\\dataaccess\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178E05B3-8F70-47CA-A31C-CA7A9CDB5067}|Eat-Japan\\Eat-Japan.csproj|solutionrelative:eat-japan\\dataaccess\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{178E05B3-8F70-47CA-A31C-CA7A9CDB5067}|Eat-Japan\\Eat-Japan.csproj|g:\\repos\\eat-japan\\eat-japan\\dataaccess\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{178E05B3-8F70-47CA-A31C-CA7A9CDB5067}|Eat-Japan\\Eat-Japan.csproj|solutionrelative:eat-japan\\dataaccess\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\repos\\Eat-Japan\\Eat-Japan\\Program.cs",
               "RelativeDocumentMoniker": "Eat-Japan\\Program.cs",
@@ -42,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Note.cs",
               "DocumentMoniker": "G:\\repos\\Eat-Japan\\Eat-Japan\\DataAccess\\Note.cs",
               "RelativeDocumentMoniker": "Eat-Japan\\DataAccess\\Note.cs",
@@ -50,7 +54,19 @@
               "RelativeToolTip": "Eat-Japan\\DataAccess\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:15:52.693Z",
+              "WhenOpened": "2025-03-20T17:15:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "G:\\repos\\Eat-Japan\\Eat-Japan\\DataAccess\\AppContext.cs",
+              "RelativeDocumentMoniker": "Eat-Japan\\DataAccess\\AppContext.cs",
+              "ToolTip": "G:\\repos\\Eat-Japan\\Eat-Japan\\DataAccess\\AppContext.cs",
+              "RelativeToolTip": "Eat-Japan\\DataAccess\\AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:42:59.894Z",
               "EditorCaption": ""
             }
           ]

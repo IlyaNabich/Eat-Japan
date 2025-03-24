@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eat-Japan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69a7101aa84168919c2af742326550bef564a18c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eat-Japan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eat-Japan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
